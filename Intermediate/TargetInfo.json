@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "P_BomberMan_012025",
+			"Path": "..\\Source\\P_BomberMan_012025.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "P_BomberMan_012025Editor",
+			"Path": "..\\Source\\P_BomberMan_012025Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

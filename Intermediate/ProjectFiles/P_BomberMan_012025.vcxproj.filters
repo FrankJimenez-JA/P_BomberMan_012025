@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\P_BomberMan_012025.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\P_BomberMan_012025.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\P_BomberMan_012025Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\P_BomberMan_012025">
+      <UniqueIdentifier>{AF644594-DA8D-3EA9-90A1-0743AD9F6DAA}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\P_BomberMan_012025\Bloque.cpp">
+      <Filter>Source\P_BomberMan_012025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\P_BomberMan_012025\Bloque.h">
+      <Filter>Source\P_BomberMan_012025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\P_BomberMan_012025\Bloque_Acero.cpp">
+      <Filter>Source\P_BomberMan_012025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\P_BomberMan_012025\Bloque_Acero.h">
+      <Filter>Source\P_BomberMan_012025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\P_BomberMan_012025\Bloque_Burbuja.cpp">
+      <Filter>Source\P_BomberMan_012025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\P_BomberMan_012025\Bloque_Burbuja.h">
+      <Filter>Source\P_BomberMan_012025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\P_BomberMan_012025\Bloque_Concreto.cpp">
+      <Filter>Source\P_BomberMan_012025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\P_BomberMan_012025\Bloque_Concreto.h">
+      <Filter>Source\P_BomberMan_012025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\P_BomberMan_012025\Bloque_Cuarzo.cpp">
+      <Filter>Source\P_BomberMan_012025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\P_BomberMan_012025\Bloque_Cuarzo.h">
+      <Filter>Source\P_BomberMan_012025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\P_BomberMan_012025\Bloque_Hielo.cpp">
+      <Filter>Source\P_BomberMan_012025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\P_BomberMan_012025\Bloque_Hielo.h">
+      <Filter>Source\P_BomberMan_012025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\P_BomberMan_012025\Bloque_Ladrillo.cpp">
+      <Filter>Source\P_BomberMan_012025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\P_BomberMan_012025\Bloque_Ladrillo.h">
+      <Filter>Source\P_BomberMan_012025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\P_BomberMan_012025\Bloque_Madera.cpp">
+      <Filter>Source\P_BomberMan_012025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\P_BomberMan_012025\Bloque_Madera.h">
+      <Filter>Source\P_BomberMan_012025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\P_BomberMan_012025\Bloque_Oro.cpp">
+      <Filter>Source\P_BomberMan_012025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\P_BomberMan_012025\Bloque_Oro.h">
+      <Filter>Source\P_BomberMan_012025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\P_BomberMan_012025\Bloque_Pasto.cpp">
+      <Filter>Source\P_BomberMan_012025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\P_BomberMan_012025\Bloque_Pasto.h">
+      <Filter>Source\P_BomberMan_012025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\P_BomberMan_012025\Bloque_Vidrio.cpp">
+      <Filter>Source\P_BomberMan_012025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\P_BomberMan_012025\Bloque_Vidrio.h">
+      <Filter>Source\P_BomberMan_012025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\P_BomberMan_012025\Bomba.cpp">
+      <Filter>Source\P_BomberMan_012025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\P_BomberMan_012025\Bomba.h">
+      <Filter>Source\P_BomberMan_012025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\P_BomberMan_012025\Moneda.cpp">
+      <Filter>Source\P_BomberMan_012025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\P_BomberMan_012025\Moneda.h">
+      <Filter>Source\P_BomberMan_012025</Filter>
+    </ClCompile>
+    <None Include="..\..\Source\P_BomberMan_012025\P_BomberMan_012025.Build.cs">
+      <Filter>Source\P_BomberMan_012025</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\P_BomberMan_012025\P_BomberMan_012025.cpp">
+      <Filter>Source\P_BomberMan_012025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\P_BomberMan_012025\P_BomberMan_012025.h">
+      <Filter>Source\P_BomberMan_012025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\P_BomberMan_012025\P_BomberMan_012025Character.cpp">
+      <Filter>Source\P_BomberMan_012025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\P_BomberMan_012025\P_BomberMan_012025Character.h">
+      <Filter>Source\P_BomberMan_012025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\P_BomberMan_012025\P_BomberMan_012025GameMode.cpp">
+      <Filter>Source\P_BomberMan_012025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\P_BomberMan_012025\P_BomberMan_012025GameMode.h">
+      <Filter>Source\P_BomberMan_012025</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
